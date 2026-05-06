@@ -173,8 +173,6 @@ AND age_group = adult
 AND country_id = NG
 ```
 
-Note that `young` and `adult` can coexist — `young` sets an age range while `adult` sets the `age_group` field independently.
-
 ---
 
 ## Limitations and edge cases
